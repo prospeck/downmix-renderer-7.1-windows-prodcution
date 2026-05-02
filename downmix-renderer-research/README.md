@@ -1,6 +1,4 @@
-Here you go — **clean, copy-paste ready README (no extra formatting noise, no IDs, nothing broken):**
 
----
 
 ```markdown
 # Taran's 7.1 Downmix Renderer Suite
